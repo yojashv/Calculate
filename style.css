@@ -1,0 +1,144 @@
+.main{
+  height: 90pc;
+  width: 50pc;
+  background-color: black;
+  border-radius: 40px;
+}
+.a{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: grey;
+}
+.b{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: grey;
+}
+.c{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: grey;
+}
+.d{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: #FF9A09;
+}
+.e{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: grey;
+}
+.f{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: grey;
+}
+.g{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: grey;
+}
+.h{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: #FF9A09;
+}
+.i{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: grey;
+}
+.j{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: grey;
+}
+.k{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: grey;
+}
+.l{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: #FF9A09;
+}
+.m{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: grey;
+}
+.n{
+  font-size: 45px;
+  height: 170px;
+  width: 400px;
+  border-radius: 100px;
+  background-color: grey;
+}
+.o{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: grey;
+}
+.p{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: #FF9A09;
+}
+.q{
+  font-size: 45px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  background-color: #FF9A09;
+}
+.r{
+  font-size: 45px;
+  height: 80px;
+  width: 30pc;
+  margin-left: 20px;
+  border: 0px;
+  background-color: black;
+  font-size: 70px;
+  margin-left: 30%;
+}
+input{
+  color: white;
+}
+.top{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25%;
+}
